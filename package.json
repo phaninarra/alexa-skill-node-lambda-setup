@@ -1,0 +1,15 @@
+{
+  "name": "indrabhavanam-skill",
+  "version": "1.0.0",
+  "description": "alexa skill backend for indrabhavanam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.8.0",
+    "babel": "^6.23.0"
+  }
+}
